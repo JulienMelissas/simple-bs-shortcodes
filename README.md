@@ -8,17 +8,17 @@ Use the shortcodes like this:
  - Use any shortcode provided, which right now includes:
   - `[half]`
   - `[one-third]`
-  - `[two-thirds]'
+  - `[two-thirds]`
   
 For example:
 ```
 [columns]
-[one-third]
-Content for the one-third block goes here!
-[/one-third]
-[two-thirds]
-Content for the two-thirds block goes here!
-[/two-thirds]
+  [one-third]
+    Content for the one-third block goes here!
+  [/one-third]
+  [two-thirds]
+    Content for the two-thirds block goes here!
+  [/two-thirds]
 [/columns]
 ```
   
